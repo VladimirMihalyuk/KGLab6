@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Lab6Mihalyuk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab6Mihalyuk_jar</output-path>
+    <root id="archive" name="Lab6Mihalyuk.jar">
+      <element id="module-output" name="Lab6Mihalyuk" />
+    </root>
+  </artifact>
+</component>
